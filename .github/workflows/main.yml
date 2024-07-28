@@ -1,5 +1,5 @@
 on:
-  LiteManager_dispatch:
+  workflow_dispatch:
 
 jobs:
   build:
